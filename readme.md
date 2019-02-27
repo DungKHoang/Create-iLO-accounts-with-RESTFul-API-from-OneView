@@ -1,6 +1,6 @@
 # Create iLO accounts from OneView
 
-IThe script creates iLO accounts from OneView leveraging the single-sign-on experiencec and RESTful API
+The script creates iLO accounts from OneView leveraging the single-sign-on experiencc and RESTful API
 
 ## Prerequisites
 The  script requires":
